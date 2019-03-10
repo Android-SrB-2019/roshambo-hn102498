@@ -1,0 +1,18 @@
+<!--Hoang Nguyen
+3-10-2019
+-->
+<resources>
+    <string name="app_name">Roshambo</string>
+    <string name="win">YOU WON! CONGRATULATIONS!</string>
+    <string name="lose">YOU LOST! BOO YOU :(</string>
+    <string name="draw">It\'s a Draw! Do it Again!</string>
+    <string name="title">ROSHAMBO</string>
+    <string name="imgbackground">imgBackground</string>
+    <string name="paper_button">Paper Button</string>
+    <string name="scissors_button">Scissors Button</string>
+    <string name="rock_button">Rock Button</string>
+    <string name="games_fighter">Games Fighter</string>
+    <string name="users_fighter">Users Fighter</string>
+    <string name="your_shot">Your Shot:</string>
+    <string name="game_shot">Game Shot:</string>
+</resources>
